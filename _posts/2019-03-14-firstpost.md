@@ -1,3 +1,8 @@
+---
+title: "Welcome to my First Post"
+date: 2019-03-14
+---
+
 <html>
 <head>
 <h1>This is the first post made in the post location</h1>
