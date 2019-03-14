@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html>
   <head>
-    <title>My blog</title>
     <h1># Welcome to my blog</h1>
   </head>
   <body>
